@@ -1,2 +1,2 @@
 # Coffee-Shop
-https://sathi128.github.io/Coffee-Shop/
+https://sathi128.github.io/Coffee-Shop/coffee.html
